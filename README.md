@@ -51,7 +51,7 @@ An intelligent document parser built using **Streamlit** and **Google's Gemini A
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/form-parser-gemini.git
+git clone https://github.com/itzz-keerthi/Gen-AI-based-Form-Parser.git
 cd form-parser-gemini
 ```
 
